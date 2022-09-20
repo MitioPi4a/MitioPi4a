@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MitioPi4a
+- 👀 I’m interested in learning new stuff
+- 🌱 I’m currently learning C#
+- 📫 How to reach me dimitar.jerov.highschool@svetlina.net
